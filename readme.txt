@@ -102,6 +102,10 @@ Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 D:\practice\maven_project\my-app>
 ================================================
 
+
+geetalakshmi@DFG61WQ1 MINGW64 /d/practice/maven_project (master)
+$ git remote add origin https://github.com/geethasunnap/maven_hello_world.git
+
 geetalakshmi@DFG61WQ1 MINGW64 /d/practice/maven_project (master)
 $ git push -u origin master
 Counting objects: 18, done.
